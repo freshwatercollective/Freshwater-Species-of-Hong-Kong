@@ -1,6 +1,4 @@
-# Freshwater Species of Hong Kong
-
-## Privacy Policy
+# Freshwater Species of Hong Kong - Privacy Policy
 
 Freshwater Collective built the [ Freshwater Species Hong Kong app ] as a Free app. This SERVICE is provided by Freshwater Collective at no cost and is intended for use as is.
 
